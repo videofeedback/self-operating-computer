@@ -1,3 +1,5 @@
+[![Discord Follow](https://dcbadge.vercel.app/api/server/feYhyYznDf?style=flat)](https://discord.gg/feYhyYznDf)
+
 <h1 align="center">Self-Operating Computer Framework</h1>
 
 <p align="center">
